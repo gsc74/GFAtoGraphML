@@ -25,7 +25,7 @@ The script creates a directed graph where:
 - The node color is randomly assigned.
 - Each edge represents a link between two sequences in the GFA file and edge weight is equal to the sequence length of the source node.
 
-The resulting GraphML file can be used to visualize the graph using tools like Gephi and Graphia.
+### The resulting GraphML file can be used to visualize the graph using tools like Gephi and Graphia.
 
 ## License
 
