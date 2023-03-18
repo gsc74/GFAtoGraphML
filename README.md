@@ -37,4 +37,4 @@ The script creates a directed graph where:
 
 ## Citation
 
-The sample GFA file `MHC-57b.gfa` used in this script was downloaded from the [Zenodo Repository "Sample graphs and sequences for testing sequence-to-graph alignment"](https://zenodo.org/record/6617246#.ZBYQ5S8RrJM).
+The sample GFA file `MHC-57b.gfa` used in this script was downloaded from the Zenodo ["Sample graphs and sequences for testing sequence-to-graph alignment"](https://zenodo.org/record/6617246#.ZBYQ5S8RrJM).
