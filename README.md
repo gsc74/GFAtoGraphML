@@ -7,7 +7,7 @@ This is a Python script that converts a GFA file to a GraphML file using the Net
 ```
 git clone https://github.com/gsc74/GFAtoGraphML.git
 chmod +x GFAtoGraphML.py
-./GFAtoGraphML.py graph.gfa graph.graphml
+./GFAtoGraphML.py MHC-57b.gfa MHC-57b.graphml
 ```
 
 ## Requirements
@@ -35,6 +35,6 @@ The script creates a directed graph where:
 
 ### The resulting GraphML file can be used to visualize the graph using tools like Gephi and Graphia.
 
-## License
+## Citation
 
-This script is released under the MIT License. See `LICENSE` for more information.
+The sample GFA file `MHC-57b.gfa` used in this script was downloaded from the [Zenodo Repository "Sample graphs and sequences for testing sequence-to-graph alignment"](https://zenodo.org/record/6617246#.ZBYQ5S8RrJM).
