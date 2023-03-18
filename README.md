@@ -10,7 +10,7 @@ This is a Python script that converts a GFA file to a GraphML file using the Net
 
 ## Usage
 ```
-python3 GFAtoGraphML.py graph.gfa graph.graphml
+./GFAtoGraphML.py graph.gfa graph.graphml
 ```
 
 - `graph.gfa`: Path to the input GFA file.
