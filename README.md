@@ -5,7 +5,7 @@ This is a Python script that converts a GFA file to a GraphML file using the Net
 
 ## Quick Start
 ```
-git clone 
+git clone https://github.com/gsc74/GFAtoGraphML.git
 chmod +x GFAtoGraphML.py
 ./GFAtoGraphML.py graph.gfa graph.graphml
 ```
