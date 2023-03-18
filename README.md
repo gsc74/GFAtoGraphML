@@ -2,6 +2,14 @@
 
 This is a Python script that converts a GFA file to a GraphML file using the NetworkX library.
 
+
+## Quick Start
+```
+git clone 
+chmod +x GFAtoGraphML.py
+./GFAtoGraphML.py graph.gfa graph.graphml
+```
+
 ## Requirements
 
 - Python 3.x
