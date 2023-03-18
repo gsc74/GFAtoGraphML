@@ -9,10 +9,12 @@ This is a Python script that converts a GFA file to a GraphML file using the Net
 - argparse library
 
 ## Usage
+```
+python3 GFAtoGraphML.py graph.gfa graph.graphml
+```
 
-
-- `input_file`: Path to the input GFA file.
-- `output_file`: Path to the output GraphML file.
+- `graph.gfa`: Path to the input GFA file.
+- `graph.graphml`: Path to the output GraphML file.
 
 ## Output
 
