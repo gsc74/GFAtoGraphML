@@ -35,4 +35,4 @@ The script creates a directed graph where:
 
 ### The resulting GraphML file can be used to visualize the graph using tools like Gephi and Graphia.
 
-The sample GFA file `MHC-57b.gfa` used in this script was downloaded from the Zenodo ["Sample graphs and sequences for testing sequence-to-graph alignment"](https://zenodo.org/record/6617246#.ZBYQ5S8RrJM).
+The sample GFA file `MHC-57b.gfa` used as an example is downloaded from the Zenodo ["Sample graphs and sequences for testing sequence-to-graph alignment"](https://zenodo.org/record/6617246#.ZBYQ5S8RrJM).
